@@ -1,0 +1,93 @@
+{
+  "basic_info": {
+    "name": "Prakash Harvani",
+    "titles": ["Senior full-stack developer", "Senior software engineer"],
+    "social": [
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/10561191/prakash-harvani",
+        "class": "fab fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/prakashharvani",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/prakashharvani/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "/images/profile.JPG"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Next",
+        "class": "devicon-nextjs-plain",
+        "level": "95"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "95"
+      },
+      {
+        "class": "devicon-amazonwebservices-plain-wordmark",
+        "name": "AWS",
+        "level": "75"
+      },
+      {
+        "class": "devicon-nestjs-plain",
+        "name": "Nest js",
+        "level": "75"
+      },
+      {
+        "name": "Web3 js",
+        "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "95"
+      },
+      {
+        "name": "Node js",
+        "class": "devicon-nodejs-plain",
+        "level": "95"
+      },
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain",
+        "level": "90"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Mongo DB",
+        "class": "devicon-mongodb-plain",
+        "level": "95"
+      },
+      {
+        "name": "PostgreSQL",
+        "class": "devicon-postgresql-plain",
+        "level": "95"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "95"
+      },
+      {
+        "name": "Solidity",
+        "class": "devicon-solidity-plain",
+        "level": "65"
+      }
+    ]
+  }
+}

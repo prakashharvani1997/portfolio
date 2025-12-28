@@ -1,0 +1,7 @@
+@use '../light-slider.scss';
+body[data-theme="light"] {
+ 
+    .slider-tab {
+       background-color: #D7CAAA;
+    }
+}

@@ -1,0 +1,541 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Prakash Harvani.  I've 6+ years of experience in IT Industry and Working as Senior Software Engineer / Full Stack Developer right now. I've hands on experience on Nest js, Next js, Node js , React js , Angular , Web3 js , PostgreSQL , Mongodb ,Docker , Sequelize , AWS Services like (Lambda , S3 , Events, Mediaconvert , Cloudwatch ,Scheduler & much more).",
+    "description1": "I've been a responsible for system architecture design, Whole site workflow stratagy design, make product From Scrach. I've worked on diffrent kinds of domains & projects like  Ecommerce , News , Property rent/sell ,Social media , Education , Food delivery , Decentralized wallets, P2P tradingbots ,NFT merketplaces , exchanges & much more.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+
+    {
+      "title": "Property Sell / Rent",
+      "startDate": "2019-2021",
+      "description": "The Property website & app is A bird’s eye view of real estate opportunities, is an application that enables property trading by acting as a platform that connects owners, agents, buyers, sellers with the added element of a 360° view of the marketplace , & its not only matches but surpasses every ability that you get by visiting the property. These filters give you the ability to find properties to match your needs ranging from pricing, size, location, area all the way through the neighborhood, school zones, landmarks and much more.",
+       "images": [
+         "/images/projects/property.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
+          
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+
+    {
+      "title": "News app",
+      "startDate": "2020-2021",
+      "description": "Had worked on a News app application & website which is made for provides News informations from diffrent diffrent providers in 1 single app through news feeds where user can read that news & provides like , follow & set the specification from which provider they want to get the news notifications / News for reading purpose & much more.",
+       "images": [
+         "/images/projects/news.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
+          
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+
+    {
+      "title": "Food delivery",
+      "startDate": "2021-2022",
+      "description": "Had worked on a food delivery application & website which is made for provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants , there was some more functionalities was there like, follow, comments, share food item etc.. ",
+       "images": [
+         "/images/projects/food.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest js"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
+          
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+
+    {
+      "title": "Social media",
+      "startDate": "2023-2024",
+      "description": "Had worked on social media application & website is  photo and video sharing social networking service, The app allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging.Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal & much more.",
+      "images": [
+        "/images/projects/social.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest js"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "name": "Next",
+          "class": "devicon-nextjs-plain"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain"
+          
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "startDate": "2021",
+      "description": "Had worked on Web2 initiative like education (e-learning ,e-coaching) where students, parents, Faculties / teachers will come on same page and educate / teach to student through e-learning , Parents & teachers also can review the learning progress of student through the app within 1 click just & much more features like Weekly test , Videos for each chapter for e learning , subscription for them as well.",
+      "images": [
+        "/images/projects/education.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+
+    {
+      "title": "Yield Farming",
+      "startDate": "2020-22",
+      "description": "Yield farming is the process of using decentralized finance (DeFi) to maximize returns. Users lend or borrow crypto on a DeFi platform and earn cryptocurrency in return for their services..",
+      "images": [
+        "/images/projects/farming.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Liquidity pools",
+      "startDate": "2020-22",
+      "description": "Liquidity pools are one of the foundational technologies behind the current DeFi ecosystem. They are an essential part of automated market makers (AMM), borrow-lend protocols, yield farming, synthetic assets, on-chain insurance, blockchain gaming – the list goes on.",
+      "images": [
+        "/images/projects/Liquidity-Pools.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "NFT Marketplaces",
+      "startDate": "2020-22",
+      "description": "NFT or Non-Fungible Tokens are cryptographic assets that are created on blockchain technology, and have unique identification codes and meta-data, which makes them distinguishable, distinct, and completely unique.In fact, even cryptocurrencies are not distinct, since they are identical to one another. This is the reason that they can be traded at equivalency for commercial usage, but not NFT, which are 100% unique.",
+      "images": [
+        "/images/projects/NFT.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Exchanges",
+      "startDate": "2020-22",
+      "description": "A cryptocurrency exchange, or a digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies.",
+      "images": [
+        "/images/projects/exchanges.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "ICO/IDO Launchpads",
+      "startDate": "2020-22",
+      "description": "An initial coin offering (ICO) or initial currency offering is a type of funding using cryptocurrencies. It is often a form of crowdfunding, although a private ICO which does not seek public investment is also possible. In an ICO, a quantity of cryptocurrency is sold in the form of 'tokens' ('coins') to speculators or investors, in exchange for legal tender or other (generally established and more stable) cryptocurrencies such as Bitcoin or Ether. The tokens are promoted as future functional units of currency if or when the ICO's funding goal is met and the project successfully launches.",
+      "images": [
+        "/images/projects/ICO.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain",
+          "level": "95"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Crypto Wallets & P2P wallets",
+      "startDate": "2020-22",
+      "description": "P2P crypto exchange is a platform where a buyer directly pays to the seller. Sometimes it’s also called decentralized exchange as the platform only serves as a matching and routing layer for trade orders; it does not hold customers’ funds, and no third party controls it. In other words “Once you are in a P2P exchange platform you are definitely using the P2P wallet.",
+      "images": [
+        "/images/projects/exchanges.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Web3 js"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next js"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Digimeta.dev",
+      "title": "Senior Software Engineer",
+      "years": "08.2023 - Present",
+      "mainTech": [ "Nest js","PostgreSQL","AWS",  "Stripe",  "React js","Next js"],
+      "technologies": [
+        "AWS (Lambda | Events | Schedule | Mediaconvert | S3  | Amplify)",
+        "Next js",
+        "Sequelize",
+        "Nest js",
+        "React",
+        "Node js",
+        "PostgreSQL",
+        "REST API",
+        "Stripe"
+      ]
+    },
+    {
+      "company": "Codezeros",
+      "title": "Senior Full Stack | Web3 | Blockchain",
+      "years": "04.2020 - 08.2023",
+      "mainTech": [
+        "Node js",
+        "React js",
+        "Next js",
+        "Web3 js",
+        "Blockchain"
+      ],
+      "technologies": [
+        "AWS (Lambda | Events | Schedule | Mediaconvert | S3  | Amplify)",
+        "Next js",
+        "Sequilize",
+        "Nest js",
+        "React",
+        "Angular 7/8",
+        "Node js",
+        "PostgreSQL",
+        "REST API",
+        "MongoDB"
+      ]
+    },
+    {
+      "company": "Codezeros",
+      "title": "Dedicated Developer(UAE)",
+      "years": "01.2020 - 03.2020",
+      "mainTech": [
+        "Node js",
+        "Angular 5+",
+        "MongoDB",
+        "AWS (S3, EC2)"
+      ],
+      "technologies": [
+        "REST API",
+        "Bootstrap",
+        "Payment Gateways",
+        "MongoDB",
+        "Typescript"
+      ]
+    },
+    {
+      "company": "Codezeros",
+      "title": "Jr. MEAN Stack Developer",
+      "years": "04.2019 - 10.2019",
+      "mainTech": [
+        "Node js",
+        "Angular 5+",
+        "MongoDB"
+      ],
+      "technologies": [
+        "REST API",
+        "Node js",
+        "Bootstrap",
+        "MongoDB",
+        "Typescript"
+      ]
+    },
+    {
+      "company": "Codezeros",
+      "title": "Intern",
+      "years": "10.2018 - 03.2019",
+      "mainTech": [
+        "Node js",
+        "Angular 5+",
+        "MongoDB"
+      ],
+      "technologies": [
+        "JavaScript",
+        "jQuery",
+        "Typescript",
+        "Web3 js"
+      ]
+    }
+  ]
+}
