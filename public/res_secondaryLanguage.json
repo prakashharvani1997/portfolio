@@ -1,8 +1,11 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Prakash Harvani.  I've 6+ years of experience in IT Industry and Working as Senior Software Engineer / Full Stack Developer right now. I've hands on experience on Nest js, Next js, Node js , React js , Angular , Web3 js , PostgreSQL , Mongodb ,Docker , Sequelize , AWS Services like (Lambda , S3 , Events, Mediaconvert , Cloudwatch ,Scheduler & much more).",
-    "description1": "I've been a responsible for system architecture design, Whole site workflow stratagy design, make product From Scrach. I've worked on diffrent kinds of domains & projects like  Ecommerce , News , Property rent/sell ,Social media , Education , Food delivery , Decentralized wallets, P2P tradingbots ,NFT merketplaces , exchanges & much more.",
+    "description": "👋 I am Prakash Harvani, a Senior Software Engineer with 6+ years of experience in the IT industry, specializing in full-stack development and system architecture design. I have a strong track record of building scalable, high-performance applications from scratch, owning end-to-end product development and technical strategy.",
+    "description1": "My core technical expertise includes NestJS, Node.js, GraphQL (Federation), Next.js, React.js, and Angular, along with extensive experience in relational and NoSQL databases such as PostgreSQL, MongoDB, and Couchbase. I am proficient in cloud-native development, working with AWS services (Lambda, S3, EventBridge, MediaConvert, CloudWatch, Scheduler, and more) as well as Azure services.",
+    "description2": "I have hands-on experience with containerization and orchestration using Docker and Kubernetes, and I actively leverage observability tools like New Relic and Splunk to ensure system reliability, performance, and scalability.",
+    "description3": "Beyond development, I have been responsible for system architecture design, workflow and platform strategy, and technical decision-making, collaborating closely with cross-functional teams to deliver robust solutions.",
+    "description4": "I have worked across diverse domains, including Retail, E-commerce, News & Media, Property Rent/Sale, Social Media, Education, Food Delivery, and Web3 ecosystems such as decentralized wallets, P2P trading bots, NFT marketplaces, and crypto exchanges.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -11,13 +14,12 @@
     }
   },
   "projects": [
-
     {
       "title": "Property Sell / Rent",
       "startDate": "2019-2021",
       "description": "The Property website & app is A bird’s eye view of real estate opportunities, is an application that enables property trading by acting as a platform that connects owners, agents, buyers, sellers with the added element of a 360° view of the marketplace , & its not only matches but surpasses every ability that you get by visiting the property. These filters give you the ability to find properties to match your needs ranging from pricing, size, location, area all the way through the neighborhood, school zones, landmarks and much more.",
-       "images": [
-         "/images/projects/property.jpg"
+      "images": [
+        "/images/projects/property.jpg"
       ],
       "url": "",
       "technologies": [
@@ -44,7 +46,6 @@
         {
           "name": "Mongo DB",
           "class": "devicon-mongodb-plain"
-          
         },
         {
           "class": "devicon-amazonwebservices-plain-wordmark",
@@ -52,105 +53,22 @@
         }
       ]
     },
-
     {
       "title": "News app",
       "startDate": "2020-2021",
       "description": "Had worked on a News app application & website which is made for provides News informations from diffrent diffrent providers in 1 single app through news feeds where user can read that news & provides like , follow & set the specification from which provider they want to get the news notifications / News for reading purpose & much more.",
-       "images": [
-         "/images/projects/news.jpg"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "name": "Node js",
-          "class": "devicon-nodejs-plain"
-        },
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "name": "Mongo DB",
-          "class": "devicon-mongodb-plain"
-          
-        },
-        {
-          "class": "devicon-amazonwebservices-plain-wordmark",
-          "name": "AWS"
-        }
-      ]
-    },
-
-    {
-      "title": "Food delivery",
-      "startDate": "2021-2022",
-      "description": "Had worked on a food delivery application & website which is made for provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants , there was some more functionalities was there like, follow, comments, share food item etc.. ",
-       "images": [
-         "/images/projects/food.jpg"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-nestjs-plain",
-          "name": "Nest js"
-        },
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "name": "Mongo DB",
-          "class": "devicon-mongodb-plain"
-          
-        },
-        {
-          "class": "devicon-amazonwebservices-plain-wordmark",
-          "name": "AWS"
-        }
-      ]
-    },
-
-    {
-      "title": "Social media",
-      "startDate": "2023-2024",
-      "description": "Had worked on social media application & website is  photo and video sharing social networking service, The app allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging.Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal & much more.",
       "images": [
-        "/images/projects/social.jpg"
+        "/images/projects/news.jpg"
       ],
       "url": "",
       "technologies": [
-        {
-          "class": "devicon-nestjs-plain",
-          "name": "Nest js"
-        },
         {
           "name": "Node js",
           "class": "devicon-nodejs-plain"
         },
         {
-          "name": "Next",
-          "class": "devicon-nextjs-plain"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
         },
         {
           "class": "devicon-typescript-plain",
@@ -161,13 +79,8 @@
           "name": "JavaScript"
         },
         {
-          "name": "PostgreSQL",
-          "class": "devicon-postgresql-plain"
-          
-        },
-        {
-          "name": "Docker",
-          "class": "devicon-docker-plain"
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
         },
         {
           "class": "devicon-amazonwebservices-plain-wordmark",
@@ -210,7 +123,6 @@
         }
       ]
     },
-
     {
       "title": "Yield Farming",
       "startDate": "2020-22",
@@ -282,51 +194,12 @@
       ]
     },
     {
-      "title": "NFT Marketplaces",
+      "title": "Exchanges & NFT marketplaces",
       "startDate": "2020-22",
-      "description": "NFT or Non-Fungible Tokens are cryptographic assets that are created on blockchain technology, and have unique identification codes and meta-data, which makes them distinguishable, distinct, and completely unique.In fact, even cryptocurrencies are not distinct, since they are identical to one another. This is the reason that they can be traded at equivalency for commercial usage, but not NFT, which are 100% unique.",
+      "description": "A cryptocurrency exchange, or a digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies. NFT or Non-Fungible Tokens are cryptographic assets that are created on blockchain technology, and have unique identification codes and meta-data, which makes them distinguishable, distinct, and completely unique.In fact, even cryptocurrencies are not distinct, since they are identical to one another. This is the reason that they can be traded at equivalency for commercial usage, but not NFT, which are 100% unique.",
       "images": [
+        "/images/projects/exchanges.jpg",
         "/images/projects/NFT.jpg"
-      ],
-      "url": "",
-      "technologies": [
-        {
-          "class": "devicon-javascript-plain",
-          "name": "Web3 js"
-        },
-        {
-          "class": "devicon-react-plain",
-          "name": "React"
-        },
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "name": "Node js",
-          "class": "devicon-nodejs-plain",
-          "level": "95"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        },
-        {
-          "class": "devicon-amazonwebservices-plain-wordmark",
-          "name": "AWS"
-        }
-      ]
-    },
-    {
-      "title": "Exchanges",
-      "startDate": "2020-22",
-      "description": "A cryptocurrency exchange, or a digital currency exchange (DCE), is a business that allows customers to trade cryptocurrencies or digital currencies for other assets, such as conventional fiat money or other digital currencies.",
-      "images": [
-        "/images/projects/exchanges.jpg"
       ],
       "url": "",
       "technologies": [
@@ -442,14 +315,180 @@
           "name": "JavaScript"
         }
       ]
+    },
+    {
+      "title": "Food delivery",
+      "startDate": "2021-2022",
+      "description": "Had worked on a food delivery application & website which is made for provides information, menus and user-reviews of restaurants as well as food delivery options from partner restaurants , there was some more functionalities was there like, follow, comments, share food item etc.. ",
+      "images": [
+        "/images/projects/food.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest js"
+        },
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Mongo DB",
+          "class": "devicon-mongodb-plain"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Social media",
+      "startDate": "2023-2024",
+      "description": "Had worked on social media application & website is  photo and video sharing social networking service, The app allows users to upload media that can be edited with filters, be organized by hashtags, and be associated with a location via geographical tagging.Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tags and locations, view trending content, like photos, and follow other users to add their content to a personal & much more.",
+      "images": [
+        "/images/projects/social.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest js"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "name": "Next",
+          "class": "devicon-nextjs-plain"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Retail business GHS Europe",
+      "startDate": "2024-Present",
+      "description": "Tesco's web is groceries, special offers (like New Year sales, Clubcard deals, F&F clothing), essentials, and broader categories like electronics, with key features including online shopping, the Clubcard loyalty program, own-brand products (Tesco Finest), and its commitment to value, community, and sustainability, all presented with a user-friendly mix of text, images, and videos for a simple, safe e-commerce experience. ",
+      "images": [
+        "/images/projects/retail.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-nestjs-plain",
+          "name": "Nest js"
+        },
+        {
+          "name": "Node js",
+          "class": "devicon-nodejs-plain"
+        },
+        {
+          "name": "Azure",
+          "class": "devicon-azure-plain"
+        },
+        {
+          "class": "devicon-kubernetes-plain",
+          "name": "Kubernetes"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "Typescript"
+        },
+        {
+          "class": "devicon-graphql-plain",
+          "name": "GraphQL"
+        },
+        {
+          "name": "Splunk",
+          "class": "devicon-splunk-original-wordmark"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain"
+        },
+        {
+          "class": "devicon-newrelic-plain",
+          "name": "New relic"
+        },
+        {
+          "class": "devicon-couchbase-original",
+          "name": "Couchbase"
+        }
+      ]
     }
   ],
   "experience": [
     {
+      "company": "Publicis sapient",
+      "title": "Senior Experience Engineer ",
+      "client": "Tesco",
+      "years": "10.2024 - Present",
+      "mainTech": [
+        "Nest js",
+        "GraphQl",
+        "Azure",
+        "Kubernetes",
+        "Docker",
+        "Splunk",
+        "New relic",
+        "Couchbase"
+      ],
+      "technologies": [
+        "Azure (Subscriptions, resource groups , Blob storages , AKS  ,Private DNS ,Cluster  )",
+        "Nest js",
+        "GraphQL",
+        "Node js",
+        "Kubernetes",
+        "Docker",
+        "Splunk",
+        "New Relic"
+      ]
+    },
+    {
       "company": "Digimeta.dev",
       "title": "Senior Software Engineer",
-      "years": "08.2023 - Present",
-      "mainTech": [ "Nest js","PostgreSQL","AWS",  "Stripe",  "React js","Next js"],
+      "years": "08.2023 - - 09.2024",
+      "mainTech": [
+        "Nest js",
+        "PostgreSQL",
+        "AWS",
+        "Stripe",
+        "React js",
+        "Next js"
+      ],
       "technologies": [
         "AWS (Lambda | Events | Schedule | Mediaconvert | S3  | Amplify)",
         "Next js",
@@ -489,6 +528,7 @@
     {
       "company": "Codezeros",
       "title": "Dedicated Developer(UAE)",
+      "client": "Skyloov",
       "years": "01.2020 - 03.2020",
       "mainTech": [
         "Node js",

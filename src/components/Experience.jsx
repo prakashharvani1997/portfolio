@@ -12,6 +12,7 @@ class Experience extends Component {
       var sectionName = this.props.resumeBasicInfo.section_name.experience;
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
+        // const client = work.client ? work.client : '';
         const mainTechnologies = work.mainTech;
 
         var mainTech = mainTechnologies.map((technology, i) => {
@@ -54,7 +55,7 @@ class Experience extends Component {
               className="vertical-timeline-element-subtitle"
               style={{ textAlign: "left" }}
             >
-              {work.company}
+              {work.company} {work.client ? '->' : ''} {work.client ? work.client : ''}
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>

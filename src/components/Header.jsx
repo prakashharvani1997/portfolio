@@ -31,8 +31,9 @@ class Header extends Component {
     }
 
     const HeaderTitleTypeAnimation = React.memo( () => {
-      console.log('---this.titles----',this.titles)
-      return <span className="title-styles"> <Typewriter steps={this.titles} loop={50} /> </span>
+      if(this.titles.length){
+        return <span className="title-styles"> <Typewriter words={this.titles} loop={50} /> </span>
+      }
     }, (props, prevProp) => true);
 
     return (

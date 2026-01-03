@@ -10,7 +10,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/prakashharvani",
+        "url": "https://github.com/prakashharvani1997",
         "class": "fab fa-github"
       },
       {
@@ -84,9 +84,26 @@
         "level": "95"
       },
       {
-        "name": "Solidity",
-        "class": "devicon-solidity-plain",
-        "level": "65"
+        "name": "Azure",
+        "class": "devicon-azure-plain",
+         "level": "95"
+      },
+      {
+        "class": "devicon-kubernetes-plain",
+        "name": "Kubernetes",
+         "level": "95"
+      },
+      {
+        "name": "Splunk",
+        "class": "devicon-splunk-original-wordmark"
+      },
+      {
+        "class": "devicon-newrelic-plain",
+        "name": "New relic"
+      },
+      {
+        "class": "devicon-couchbase-original",
+        "name": "Couchbase"
       }
     ]
   }

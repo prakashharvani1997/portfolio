@@ -145,7 +145,7 @@ const ProjectDetailsModal = ({ show, onHide, data }) => {
                   <img
                     src={img}
                     alt={`${title}-${i}`}
-                    style={{ width: "100%" }}
+                    style={{ width: "100%" , height : "380px" }}
                   />
                 </div>
               ))}
