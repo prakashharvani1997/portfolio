@@ -33,54 +33,55 @@ class About extends Component {
             </span>
           </h1>
           <div className="row center mx-auto mb-5">
-            <div className="col-md-4 mb-5 center">
+            <div className="col-md-3 mb-5 center">
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="250px"
-                    width="400px"
+                    width="500px"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
+                  <>
+                    <Icon
+                      icon={reactIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                      icon={nestIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                      icon={nodeIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
 
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={nestIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={nodeIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-
-                  <Icon
-                    icon={awsIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={azureIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={kubernetesIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={nextIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                    <Icon
+                      icon={awsIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                      icon={azureIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                      icon={kubernetesIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    <Icon
+                      icon={angularIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    />
+                    {/* <Icon
+                      icon={nextIcon}
+                      style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                    /> */}
+                  </>
                 </span>
               </div>
             </div>
 
-            <div className="col-md-8 center">
+            <div className="col-md-9 center">
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
@@ -115,7 +116,7 @@ class About extends Component {
                       {hello} :){" "}
                     </span>
                     <br />
-                  
+
                     {about}
                     <br />
                     {about1}
